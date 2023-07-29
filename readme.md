@@ -1,4 +1,6 @@
-# Backend: A HTTP Server with nodeJS
+# Backend Project: A HTTP Server with nodeJS
+
+In this simple project we create a basic web http server using nodeJS, where you can acess 2 routes ("/" and "/users").
 
 ### Skills applied in this project:
 
@@ -13,11 +15,11 @@ First of all, you need to clone this repository to your pc. Lets do it step by s
 - Download GitBash from: https://git-scm.com/downloads
 - Then, after install it, open the git bash command line editor and type:
 
-> git init
+> $ git init
 
 (it will start a git repository on your folder). Now, lets clone it.
 
-> git clone https://github.com/EdisonMatos/NodeJS-Http-server.git
+> $ git clone https://github.com/EdisonMatos/NodeJS-Http-server.git
 
 And its done, you have clonned my repository.
 
