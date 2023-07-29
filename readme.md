@@ -25,7 +25,7 @@ And its done, you have clonned my repository.
 
 ---
 
-Now, to run the server open your command line editor in the root of the fold and run:
+Now, to run the server, open the folder you just clonned and start a command line editor inside it and run:
 
 > npm install
 
