@@ -9,6 +9,7 @@ Este repositório contém um servidor simples em Node.js que fornece uma lista d
 - **Node.js:** Ambiente de execução para JavaScript no servidor.
 - **HTTP Module:** Módulo nativo do Node.js para criação de servidores HTTP.
 - **Nodemon:** Ferramenta para reiniciar automaticamente o servidor em ambiente de desenvolvimento.
+- **Padrão de arquitetura:** Padrão livre.
 
 <br>
 
